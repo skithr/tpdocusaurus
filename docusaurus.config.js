@@ -15,7 +15,7 @@ const config = {
   url: 'https://SRV-Web.ent6R1.local',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/accuei',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -39,12 +39,10 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
           routeBasePath:'/',
+          sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -64,18 +62,10 @@ const config = {
           alt: 'Site Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-        ],
       },
       footer: {
         style: 'dark',
-        copyright: `Vlad Croitoru`,
+        copyright: `Vlad Croitoru, Etienne Tardif – 2024 – 6R1`,
       },
       prism: {
         theme: prismThemes.github,
