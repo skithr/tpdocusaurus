@@ -1,5 +1,6 @@
 ---
 id: my-home-doc
+sidebar_position: 1
 slug: /
 ---
 # Entrepôts 6R1 - Équipe maintenance

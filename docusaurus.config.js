@@ -15,7 +15,7 @@ const config = {
   url: 'https://SRV-Web.ent6R1.local',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/accuei',
+  baseUrl: '/accueil',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
