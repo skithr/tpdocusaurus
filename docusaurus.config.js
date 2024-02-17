@@ -13,10 +13,9 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://SRV-Web.ent6R1.local',
-  baseUrl: '/accueil',
+  baseUrl: '/',
   organizationName: 'skithr', // Usually your GitHub org/user name.
   projectName: 'tpdocusaurus', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
