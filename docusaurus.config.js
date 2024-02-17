@@ -13,7 +13,7 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://SRV-Web.ent6R1.local',
-  baseUrl: '/',
+  baseUrl: '/tpdocusaurus/',
   organizationName: 'skithr', // Usually your GitHub org/user name.
   projectName: 'tpdocusaurus', // Usually your repo name.
   trailingSlash: false,
