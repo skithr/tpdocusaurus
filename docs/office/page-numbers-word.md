@@ -16,6 +16,23 @@ Par Vlad Croitoru 11 février 2024
 4. [Modifier l'apparence du numéro de page](#apparence)
 
 
+:::info
+
+Le processus prend environ 3 minutes.
+
+Cette méthode est fonctionnelle en date du 11 février 2024 sous Windows 10 Home, version 22H2
+
+:::
+
+:::note
+
+**Prérequis :**
+
+Un ordinateur sous système d'exploitation sous Windows 10.
+
+Word de la suite Microsoft Office 365 ou Microsoft Office.
+:::
+
 ## Introduction <a name="introduction"></a>
 
 
