@@ -16,6 +16,7 @@ const config = {
   baseUrl: '/accueil',
   organizationName: 'skithr', // Usually your GitHub org/user name.
   projectName: 'tpdocusaurus', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
