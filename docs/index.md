@@ -5,8 +5,8 @@ slug: /
 ---
 # Entrepôts 6R1 - Équipe maintenance
 
-Ce site contient la documentation pour l'équipe de maintenance.
+Je vous souhaite la bienvenue dans la grande famille des Entrepôts 6R1.
 
-Bonne lecture !
+Les nouveaux membres de l'équipe Maintenance - Secteur F sont Fabrice Paterson et Francine Ouellet.
 
-Gaëtan Tanguay, directeur de l'équipe de maintenance
+Marco Drouin

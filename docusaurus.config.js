@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DataOps',
+  title: 'Maintenance - Secteur F',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -54,7 +54,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'DataOps',
+        title: 'Maintenance - Secteur F',
         logo: {
           alt: 'Site Logo',
           src: 'img/logo.svg',
