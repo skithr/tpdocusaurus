@@ -5,8 +5,8 @@ slug: /
 ---
 # Entrepôts 6R1 - Équipe maintenance
 
-Se site contient la documentation pour l'équipe de maintenanse.
+Ce site contient la documentation pour l'équipe de maintenance.
 
 Bonne lecture !
 
-Gaëtan Tanguay, directeur équipe maintenance
+Gaëtan Tanguay, directeur de l'équipe de maintenance
